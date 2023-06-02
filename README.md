@@ -59,6 +59,7 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Manipular arrays com o método unshift](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift)
 - [ ] [Criar lista de compras](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list)
 - [ ] [Usar o operador spread para avaliar arrays na hora](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place)
+- [ ] [](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements)
 
 ### Manipular objetos (key | value)
 - [ ] [Criar objetos JavaScript](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects)
