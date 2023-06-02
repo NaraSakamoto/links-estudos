@@ -11,6 +11,7 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 ## Índice
 
 - [Uso de condicionais (if-else, switch, operador ternário)](#uso-de-condicionais-if-else-switch-operador-ternário)
+- [Manipular arrays (filter, map, sort, reduce)](#manipular-arrays-filter-map-sort-reduce)
 
 ---
 
@@ -28,11 +29,12 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Comparar com o operador menor que](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-operator)
 - [ ] [Comparar com o operador menor ou igual](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparison-with-the-less-than-or-equal-to-operator)
 - [ ] [Comparar com o operador lógico AND](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-and-operator)
-- [ ] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator
-- [ ] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements
-- [ ] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements
-- [ ] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements
-- [ ] https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements
+- [ ] [Comparar com o operador lógico OR](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/comparisons-with-the-logical-or-operator)
+- [ ] [Introduzir instruções else](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-statements)
+- [ ] [Introduzir instruções else if](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/introducing-else-if-statements)
+- [ ] [Usar a ordem lógica em instruções if else](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/logical-order-in-if-else-statements)
+- [ ] [Encadear instruções if else
+](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/chaining-if-else-statements)
 
 ### Manipular arrays (filter, map, sort, reduce)
 
