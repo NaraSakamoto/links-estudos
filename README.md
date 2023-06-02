@@ -6,9 +6,13 @@ Este repositório tem o objetivo de centralizar links de conteúdos que podem ap
 
 Este repositório é publico! Fique a vontade para enviar um pull request! 
 
+---
+
 ## Índice
 
 * [Uso de condicionais (if-else, switch, operador ternário)](#uso-de-condicionais-if-else-switch-operador-ternário)
+
+---
 
 ### Uso de condicionais (if-else, switch, operador ternário)
 
