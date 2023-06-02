@@ -39,3 +39,12 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 ### Manipular arrays (filter, map, sort, reduce)
 
 - [ ] [Armazenar múltiplos valores em uma variável usando arrays JavaScript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays)
+- [ ] [Aninhar um array em outro array](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array)
+- [ ] [Acessar array de dados com índices](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/access-array-data-with-indexes)
+- [ ] [Modificar dados de array com índices](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/modify-array-data-with-indexes)
+- [ ] [Acessar arrays multidimensionais com índices](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/access-multi-dimensional-arrays-with-indexes)
+- [ ] [Manipular arrays com o método push](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-push)
+- [ ] [Manipular arrays com o método pop](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-pop)
+- [ ] [Manipular arrays com o método shift](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-shift)
+- [ ] [Manipular arrays com o método unshift](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/manipulate-arrays-with-unshift)
+- [ ] [Criar lista de compras](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/shopping-list)
