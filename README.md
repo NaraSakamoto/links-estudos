@@ -1,6 +1,6 @@
 # Links para estudos
 
-Este repositório tem o objetivo de centralizar links de conteúdos que podem apoiar no aprendizado de pessoas iniciantes na programação com foco na linguagem Javascript.
+Este repositório tem o objetivo de centralizar links de conteúdos que podem apoiar no aprendizado de pessoas iniciantes na programação com foco na linguagem Javascript, no CSS e no HTML.
 
 ## Como contribuir
 
