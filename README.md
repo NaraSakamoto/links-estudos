@@ -12,6 +12,10 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [Variáveis (declaração, atribuição, escopo)](#variáveis-declaração-atribuição-escopo)
 - [Uso de condicionais (if-else, switch, operador ternário)](#uso-de-condicionais-if-else-switch-operador-ternário)
 - [Manipular arrays (filter, map, sort, reduce)](#manipular-arrays-filter-map-sort-reduce)
+- [Manipular objetos (key e value)](#manipular-objetos-key-e-value)
+- [Uso de funções (parâmetros, argumentos, valor de retorno)](#uso-de-funções-parâmetros-argumentos-valor-de-retorno)
+- [Uso de laços (for, for of, while)](#uso-de-laços-for-for-of-while)
+- [Módulos de ECMAScript (ES modules)](#módulos-de-ECMAScript-ES-modules)
 
 ---
 ### Variáveis (declaração, atribuição, escopo)
