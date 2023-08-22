@@ -9,7 +9,7 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 ---
 
 ## Índice
-
+- [Variáveis (declaração, atribuição, escopo)](#variaveis-declaracao-atribuicao-escopo)
 - [Uso de condicionais (if-else, switch, operador ternário)](#uso-de-condicionais-if-else-switch-operador-ternário)
 - [Manipular arrays (filter, map, sort, reduce)](#manipular-arrays-filter-map-sort-reduce)
 
