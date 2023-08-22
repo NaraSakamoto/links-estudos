@@ -9,15 +9,41 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 ---
 
 ## Índice
-- [Variáveis (declaração, atribuição, escopo)](#variáveis-declaração-atribuição-escopo)
-- [Uso de condicionais (if-else, switch, operador ternário)](#uso-de-condicionais-if-else-switch-operador-ternário)
-- [Manipular arrays (filter, map, sort, reduce)](#manipular-arrays-filter-map-sort-reduce)
-- [Manipular objetos (key e value)](#manipular-objetos-key-e-value)
-- [Uso de funções (parâmetros, argumentos, valor de retorno)](#uso-de-funções-parâmetros-argumentos-valor-de-retorno)
-- [Uso de laços (for, for of, while)](#uso-de-laços-for-for-of-while)
-- [Módulos de ECMAScript (ES modules)](#módulos-de-ECMAScript-ES-modules)
+- CSS
+  - [CSS Grid](#css-grid)
+  - [CSS Flexbox](#css-flexbox)
+- HTML
+  - [HTML Semântico](#html-semântico) 
+- Javascript
+  - [Variáveis (declaração, atribuição, escopo)](#variáveis-declaração-atribuição-escopo)
+  - [Uso de condicionais (if-else, switch, operador ternário)](#uso-de-condicionais-if-else-switch-operador-ternário)
+  - [Manipular arrays (filter, map, sort, reduce)](#manipular-arrays-filter-map-sort-reduce)
+  - [Manipular objetos (key e value)](#manipular-objetos-key-e-value)
+  - [Uso de funções (parâmetros, argumentos, valor de retorno)](#uso-de-funções-parâmetros-argumentos-valor-de-retorno)
+  - [Uso de laços (for, for of, while)](#uso-de-laços-for-for-of-while)
+  - [Módulos de ECMAScript (ES modules)](#módulos-de-ECMAScript-ES-modules)
 
 ---
+## CSS
+
+### CSS Grid
+- [ ] [CSS Tricks - Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [ ] [Grid Garden](https://cssgridgarden.com/)
+- [ ] [Grid by example](https://gridbyexample.com/examples/)
+
+### Flexbox
+- [ ] [Flexbox Froggy](https://flexboxfroggy.com/)
+- [ ] [Flexbox Zombies](https://mastery.games/flexboxzombies/)
+- [ ] [Flexbox Defense](http://www.flexboxdefense.com/)
+- [ ] [CSS Tricks - Felxbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+## HTML
+
+### HTML Semântico
+- [ ] [](https://www.devmedia.com.br/html-semantico-conheca-os-elementos-semanticos-da-html5/38065)
+
+## Javascript
+
 ### Variáveis (declaração, atribuição, escopo)
 - [ ] [Declarar variáveis JavaScript](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/declare-javascript-variables)
 - [ ] [Armazenar valores com o operador de atribuição](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/storing-values-with-the-assignment-operator)
