@@ -65,7 +65,7 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Usar o operador spread para avaliar arrays na hora](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use-the-spread-operator-to-evaluate-arrays-in-place)
 - [ ] [](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use-destructuring-assignment-with-the-rest-parameter-to-reassign-array-elements)
 
-### Manipular objetos (key | value)
+### Manipular objetos (key e value)
 - [ ] [Criar objetos JavaScript](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects)
 - [ ] [Acessar propriedades de objetos com notação de pontos](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation)
 - [ ] [Acessar propriedades de objeto com notação de colchetes](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-bracket-notation)
@@ -97,7 +97,7 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Usar o parâmetro rest com parâmetros de função](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use-the-rest-parameter-with-function-parameters)
 - [ ] [Escrever funções declarativas concisas com ES6](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/write-concise-declarative-functions-with-es6)
 
-### Uso de laços (for, for..of, while)
+### Uso de laços (for, for of, while)
 
 - [ ] [Iterar com laços while em JavaScript
 ](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/basic-javascript/iterate-with-javascript-while-loops)
