@@ -40,7 +40,7 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 ## HTML
 
 ### HTML Semântico
-- [ ] [](https://www.devmedia.com.br/html-semantico-conheca-os-elementos-semanticos-da-html5/38065)
+- [ ] [Devmedia HTML Semântico](https://www.devmedia.com.br/html-semantico-conheca-os-elementos-semanticos-da-html5/38065)
 
 ## Javascript
 
