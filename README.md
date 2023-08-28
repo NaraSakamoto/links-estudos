@@ -22,6 +22,8 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
   - [Uso de funções (parâmetros, argumentos, valor de retorno)](#uso-de-funções-parâmetros-argumentos-valor-de-retorno)
   - [Uso de laços (for, for of, while)](#uso-de-laços-for-for-of-while)
   - [Módulos de ECMAScript (ES modules)](#módulos-de-ECMAScript-ES-modules)
+- SPA
+  - [SPA](#SPA)
 
 ---
 ## CSS
@@ -142,3 +144,6 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Usar * para importar tudo de um arquivo](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/use--to-import-everything-from-a-file)
 - [ ] [Exportar apenas um valor com export default](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/create-an-export-fallback-with-export-default)
 - [ ] [Importar uma exportação padrão](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/import-a-default-export)
+
+## SPA
+- [] [Build a Single Page Web app using the DOM and JavaScript](https://itnext.io/build-a-single-page-web-app-javascript-and-the-dom-90c99b08f8a9)
