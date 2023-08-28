@@ -37,7 +37,8 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Flexbox Froggy](https://flexboxfroggy.com/)
 - [ ] [Flexbox Zombies](https://mastery.games/flexboxzombies/)
 - [ ] [Flexbox Defense](http://www.flexboxdefense.com/)
-- [ ] [CSS Tricks - Felxbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] [CSS Tricks - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [ ] [Guia Flexbox - Origamid](https://origamid.com/projetos/flexbox-guia-completo/)
 
 ## HTML
 
