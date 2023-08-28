@@ -146,4 +146,4 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Importar uma exportação padrão](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/es6/import-a-default-export)
 
 ## SPA
-- [] [Build a Single Page Web app using the DOM and JavaScript](https://itnext.io/build-a-single-page-web-app-javascript-and-the-dom-90c99b08f8a9)
+- [ ] [Build a Single Page Web app using the DOM and JavaScript](https://itnext.io/build-a-single-page-web-app-javascript-and-the-dom-90c99b08f8a9)
