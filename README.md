@@ -32,6 +32,7 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [CSS Tricks - Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [ ] [Grid Garden](https://cssgridgarden.com/)
 - [ ] [Grid by example](https://gridbyexample.com/examples/)
+- [ ] [CSS Grid Layout e Flexbox - Quando Utilizar](https://www.youtube.com/watch?v=x-4z_u8LcGc)
 
 ### Flexbox
 - [ ] [Flexbox Froggy](https://flexboxfroggy.com/)
@@ -39,6 +40,7 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Flexbox Defense](http://www.flexboxdefense.com/)
 - [ ] [CSS Tricks - Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [ ] [Guia Flexbox - Origamid](https://origamid.com/projetos/flexbox-guia-completo/)
+- [ ] [CSS Grid Layout e Flexbox - Quando Utilizar](https://www.youtube.com/watch?v=x-4z_u8LcGc)
 
 ## HTML
 
