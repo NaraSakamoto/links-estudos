@@ -24,7 +24,9 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
   - [Módulos de ECMAScript (ES modules)](#módulos-de-ECMAScript-ES-modules)
 - SPA
   - [SPA](#SPA)
-
+- Firebase
+  - [Authentication](#authentication)
+  - [Firestore](#firestore)
 ---
 ## CSS
 
@@ -151,6 +153,21 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 ## SPA
 - [ ] [Criando uma SPA com Javascript (Parte 1)](https://www.youtube.com/watch?v=hf8x3A1e57Y)
 - [ ] [Build a Single Page Web app using the DOM and JavaScript](https://itnext.io/build-a-single-page-web-app-javascript-and-the-dom-90c99b08f8a9)
+
+## Firebase
+
+### Authentication
+- [ ] [Introdução ao Firebase Authentication](https://www.youtube.com/watch?v=NZzekYgLYdg)
+- [ ] [Configuração do Firebase Authentication](https://www.youtube.com/watch?v=2VyFISV-KfY)
+- [ ] [Fazendo login usando o Firebase Authentication](https://www.youtube.com/watch?v=FCT6RvITXwc)
+- [ ] [Criando tela de cadastro - preparando para adicionar o Firebase](https://www.youtube.com/watch?v=bv7YFmgeoCU)
+- [ ] [Validaçõe na tela de cadastro - Ainda preparando para adicionar Firebase](https://www.youtube.com/watch?v=_DNY4gu6AbQ)
+- [ ] [Fazendo registro de um novo usuário com Firebase](https://www.youtube.com/watch?v=tca_0b51mAQ)
+- [ ] [Mantendo o login do usuário usando o Firebase](https://www.youtube.com/watch?v=S38VJT3Eq6g)
+- [ ] [Implementando Logout](https://www.youtube.com/watch?v=L1FV588i_aQ)
+
+### Firestore
+- [ ] [Introdução ao Firestore](https://www.youtube.com/watch?v=DuIOsh1WL5Y)
 
 ## Responsivo
 
