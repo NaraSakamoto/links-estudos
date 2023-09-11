@@ -168,6 +168,7 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 
 ### Firestore
 - [ ] [Introdução ao Firestore](https://www.youtube.com/watch?v=DuIOsh1WL5Y)
+- [ ] [Configurando o Firebase em um projeto web](https://www.youtube.com/watch?v=oFp7twsVEiE&list=PL9hacQcvMBGClsXFAkMEnmaR66icyjs_C)
 
 ## Responsivo
 
