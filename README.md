@@ -182,5 +182,8 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 ## Responsivo
 ### @media - Media Queries
 - [ ] [Convenções de breakpoints de larguras para media queries](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
+- [ ] [Como Usar Breakpoints CSS para Design Responsivo](https://www.hostinger.com.br/tutoriais/breakpoints-css)
+
+
 ### Menu Hamburguer
 - [ ] [Criando um menu hambúrguer - @Curso em Vídeo HTML5 e CSS3](https://www.youtube.com/watch?v=Dd6Z3gkud18)
