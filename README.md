@@ -46,6 +46,14 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Guia Flexbox - Origamid](https://origamid.com/projetos/flexbox-guia-completo/)
 - [ ] [CSS Grid Layout e Flexbox - Quando Utilizar](https://www.youtube.com/watch?v=x-4z_u8LcGc)
 
+### @media - Media Queries para Design Responsivo
+- [ ] [Usando Media Queries - MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries)
+- [ ] [Convenções de breakpoints de larguras para media queries](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
+- [ ] [Como Usar Breakpoints CSS para Design Responsivo](https://www.hostinger.com.br/tutoriais/breakpoints-css)
+
+### Menu Hamburguer
+- [ ] [Criando um menu hambúrguer - @Curso em Vídeo HTML5 e CSS3](https://www.youtube.com/watch?v=Dd6Z3gkud18)
+
 ## HTML
 
 ### HTML Semântico
@@ -179,12 +187,9 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Introdução ao Firestore](https://www.youtube.com/watch?v=DuIOsh1WL5Y)
 - [ ] [Configurando o Firebase em um projeto web](https://www.youtube.com/watch?v=oFp7twsVEiE&list=PL9hacQcvMBGClsXFAkMEnmaR66icyjs_C)
 
-## Design Responsivo
-### @media - Media Queries
-- [ ] [Usando Media Queries - MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries)
-- [ ] [Convenções de breakpoints de larguras para media queries](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
-- [ ] [Como Usar Breakpoints CSS para Design Responsivo](https://www.hostinger.com.br/tutoriais/breakpoints-css)
 
 
-### Menu Hamburguer
-- [ ] [Criando um menu hambúrguer - @Curso em Vídeo HTML5 e CSS3](https://www.youtube.com/watch?v=Dd6Z3gkud18)
+## Github
+### Github Projects - Organizando seu trabalho com o github
+- [ ] [Sobre a o GitHub Projects](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects)
+- [ ] [Melhores práticas com GitHub Projects](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/learning-about-projects/best-practices-for-projects)
