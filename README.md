@@ -179,8 +179,9 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Introdução ao Firestore](https://www.youtube.com/watch?v=DuIOsh1WL5Y)
 - [ ] [Configurando o Firebase em um projeto web](https://www.youtube.com/watch?v=oFp7twsVEiE&list=PL9hacQcvMBGClsXFAkMEnmaR66icyjs_C)
 
-## Responsivo
+## Design Responsivo
 ### @media - Media Queries
+- [ ] [Usando Media Queries - MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS/CSS_media_queries/Using_media_queries)
 - [ ] [Convenções de breakpoints de larguras para media queries](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
 - [ ] [Como Usar Breakpoints CSS para Design Responsivo](https://www.hostinger.com.br/tutoriais/breakpoints-css)
 
