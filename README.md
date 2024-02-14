@@ -180,6 +180,7 @@ Este repositório é publico! Fique a vontade para enviar um pull request!
 - [ ] [Configurando o Firebase em um projeto web](https://www.youtube.com/watch?v=oFp7twsVEiE&list=PL9hacQcvMBGClsXFAkMEnmaR66icyjs_C)
 
 ## Responsivo
-
+### @media - Media Queries
+- [ ] [Convenções de breakpoints de larguras para media queries](https://getbootstrap.com/docs/5.0/layout/breakpoints/)
 ### Menu Hamburguer
 - [ ] [Criando um menu hambúrguer - @Curso em Vídeo HTML5 e CSS3](https://www.youtube.com/watch?v=Dd6Z3gkud18)
